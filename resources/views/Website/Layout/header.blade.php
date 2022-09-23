@@ -14,7 +14,7 @@
                 <div class="col-auto">
                     <div class="header-dropdown">
                         <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink1" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-globe"></i>English</a>
-                        <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink1">
+                        <!-- <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink1">
                             <li>
                                 <a href="#">German</a>
                                 <a href="#">French</a>
@@ -23,7 +23,7 @@
                                 <a href="#">Spanish</a>
                                 <a href="#">Greek</a>
                             </li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
                 <div class="col-auto">
@@ -52,16 +52,16 @@
                             <ul>
                                 <li class="menu-item-has-children">
                                     <a href="index.html">Home</a>
-                                    <ul class="sub-menu">
+                                    <!-- <ul class="sub-menu">
                                         <li><a href="index.html">Home One</a></li>
                                         <li><a href="index-2.html">Home Two</a></li>
                                         <li><a href="index-3.html">Home Three</a></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
                                 <li>
                                     <a href="about.html">About</a>
                                 </li>
-                                <li class="menu-item-has-children mega-menu-wrap">
+                                <!-- <li class="menu-item-has-children mega-menu-wrap">
                                     <a href="#">Pages</a>
                                     <ul class="mega-menu">
                                         <li><a href="shop.html">Pagelist 1</a>
@@ -98,8 +98,8 @@
                                             </ul>
                                         </li>
                                     </ul>
-                                </li>
-                                <li class="menu-item-has-children mega-menu-wrap">
+                                </li> -->
+                                <!-- <li class="menu-item-has-children mega-menu-wrap">
                                     <a href="#"><span class="has-new-lable">Elements<span class="new-label">new</span></span></a>
                                     <ul class="mega-menu">
                                         <li><a href="shop.html">Elements</a>
@@ -140,7 +140,7 @@
                                 </li>
                                 <li>
                                     <a href="contact.html">Contact</a>
-                                </li>
+                                </li> -->
                             </ul>
                         </nav>
                         <button class="vs-menu-toggle d-inline-block d-lg-none"><i class="fal fa-bars"></i></button>

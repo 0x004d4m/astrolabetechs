@@ -12,7 +12,7 @@
             </div>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:315px; top:865px;" class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer" data-ls="static:forever;"><a href="#" class="ls-custom-dot"></a><a href="#" class="ls-custom-dot"></a><a href="#" class="ls-custom-dot"></a></div>
             <img width="588" height="795" src="assets/img/hero/hero-1-2.png" class="ls-l ls-hide-tablet ls-hide-phone ls-img-layer" alt="hero image" style="font-size:36px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; top:184px; left:993px; z-index:500;">
-            <p style="font-size:20px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:900; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; letter-spacing:3px; left:315px; top:370px; font-family:Sora;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:-150; durationin:1500; delayin:200; easingin:easeOutQuint; offsetyout:-100; durationout:1500; easingout:easeOutQuint;">WE MAKE YOUR COMPANY BRIGHTER</p>
+            <p style="font-size:20px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:900; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; letter-spacing:3px; left:315px; top:370px; font-family:Sora;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:-150; durationin:1500; delayin:200; easingin:easeOutQuint; offsetyout:-100; durationout:1500; easingout:easeOutQuint;">LET’S GROW YOUR BUSINESS TOGETHER</p>
             <h1 style="font-size:80px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:700; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; font-family:Sora; left:310px; top:410px;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-100; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500;">
                 Build an Effective
             </h1>
@@ -63,7 +63,7 @@
         <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnsscale:1.2;">
             <img width="1920" height="967" src="assets/img/hero/hero-2-1.jpg" class="ls-bg" alt="image" />
             <img width="588" height="795" src="assets/img/hero/hero-2-2.png" class="ls-l ls-hide-tablet ls-hide-phone ls-img-layer" alt="hero image" style="font-size:36px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; top:184px; left:993px; z-index:500;">
-            <p style="font-size:20px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:900; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; letter-spacing:3px; left:315px; top:370px; font-family:Sora;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:-150; durationin:1500; delayin:200; easingin:easeOutQuint; offsetyout:-100; durationout:1500; easingout:easeOutQuint;">WE MAKE YOUR COMPANY BRIGHTER</p>
+            <p style="font-size:20px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:900; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; letter-spacing:3px; left:315px; top:370px; font-family:Sora;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:-150; durationin:1500; delayin:200; easingin:easeOutQuint; offsetyout:-100; durationout:1500; easingout:easeOutQuint;">LET’S GROW YOUR BUSINESS TOGETHER</p>
             <h1 style="font-size:80px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:700; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; font-family:Sora; left:310px; top:410px;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-100; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500;">
                 Take Expert Help
             </h1>
@@ -71,9 +71,9 @@
                 And Grow Online
             </h1>
             <p style="font-size:22px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; font-family:Sora; color:#bbbbbb; left:315px; top:610px;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-100; durationin:1500; delayin:600; easingin:easeOutQuint; bgcolorin:transparent; colorin:transparent; offsetxout:-100; durationout:1500; bgcolorout:transparent; colorout:transparent;">
-                We help company solving their finance
+            We help company growing their business
                 <br>
-                problems smartly.
+                Online effectively.
             </p>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:315px; top:710px;" class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
                 <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
@@ -89,9 +89,9 @@
                 And Grow Online
             </h1>
             <p style="font-size:32px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; font-family:Sora; color:#bbbbbb; left:150px; top:480px; line-height:60px;" class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-100; durationin:1500; delayin:600; easingin:easeOutQuint; bgcolorin:transparent; colorin:transparent; offsetxout:-100; durationout:1500; bgcolorout:transparent; colorout:transparent;">
-                We help company solving their financial
+            We help company growing their business
                 <br>
-                problems smartly.
+                Online effectively.
             </p>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:150px; top:650px;" class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
                 <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
@@ -114,7 +114,7 @@
         <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnsscale:1.2;">
             <img width="1920" height="967" src="assets/img/hero/hero-3-1.jpg" class="ls-bg" alt="image" />
             <img width="588" height="795" src="assets/img/hero/hero-3-2.png" class="ls-l ls-hide-tablet ls-hide-phone ls-img-layer" alt="image" style="font-size:36px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; top:184px; left:993px; z-index:500;">
-            <p style="font-size:20px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:900; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; letter-spacing:3px; left:315px; top:370px; font-family:Sora;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:-150; durationin:1500; delayin:200; easingin:easeOutQuint; offsetyout:-100; durationout:1500; easingout:easeOutQuint;">WE MAKE YOUR COMPANY BRIGHTER</p>
+            <p style="font-size:20px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:900; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; letter-spacing:3px; left:315px; top:370px; font-family:Sora;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetyin:-150; durationin:1500; delayin:200; easingin:easeOutQuint; offsetyout:-100; durationout:1500; easingout:easeOutQuint;">LET’S GROW YOUR BUSINESS TOGETHER</p>
             <h1 style="font-size:80px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:700; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; font-family:Sora; left:310px; top:410px;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-100; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500;">
                 Stablish Business
             </h1>
@@ -122,9 +122,9 @@
                 With Expert Plan
             </h1>
             <p style="font-size:22px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; font-family:Sora; color:#bbbbbb; left:315px; top:610px;" class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer" data-ls="offsetxin:-100; durationin:1500; delayin:600; easingin:easeOutQuint; bgcolorin:transparent; colorin:transparent; offsetxout:-100; durationout:1500; bgcolorout:transparent; colorout:transparent;">
-                We help company solving their finance
+            We help company reaching their lead
                 <br>
-                problems smartly.
+                generation easier.
             </p>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:315px; top:710px;" class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
                 <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
@@ -140,9 +140,9 @@
                 With Expert Plan
             </h1>
             <p style="font-size:32px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; font-family:Sora; color:#bbbbbb; left:150px; top:480px; line-height:60px;" class="ls-l ls-hide-desktop ls-hide-phone ls-text-layer" data-ls="offsetxin:-100; durationin:1500; delayin:600; easingin:easeOutQuint; bgcolorin:transparent; colorin:transparent; offsetxout:-100; durationout:1500; bgcolorout:transparent; colorout:transparent;">
-                We help company solving their financial
+            We help company reaching their lead
                 <br>
-                problems smartly.
+                generation easier.
             </p>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:150px; top:650px;" class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
                 <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
