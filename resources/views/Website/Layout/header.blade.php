@@ -7,7 +7,7 @@
                     <div class="header-links">
                         <ul>
                             <li><i class="fal fa-envelope-open-text"></i><a href="mailto:info@example.com">info@domain.com</a></li>
-                            <li><i class="far fa-map-marker-alt"></i>250 Main Street, 2nd Floor. USA</li>
+                            <li><i class="far fa-map-marker-alt"></i>250 Main Street, 2nd Floor. Jordan</li>
                         </ul>
                     </div>
                 </div>
