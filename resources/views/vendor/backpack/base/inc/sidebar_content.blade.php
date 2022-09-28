@@ -11,6 +11,4 @@
     </ul>
 </li>
 
-<li class="nav-item"><a class="nav-link" href="{{ backpack_url('contact') }}"><i class="nav-icon la la-question"></i> Contacts</a></li>
-<li class="nav-item"><a class="nav-link" href="{{ backpack_url('unit') }}"><i class="nav-icon la la-question"></i> Units</a></li>
-<li class="nav-item"><a class="nav-link" href="{{ backpack_url('conversions') }}"><i class="nav-icon la la-question"></i> Conversions</a></li>
+<li class="nav-item"><a class="nav-link" href="{{ backpack_url('contact-request') }}"><i class="nav-icon la la-question"></i> Contact requests</a></li>
