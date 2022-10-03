@@ -7,7 +7,7 @@
                     <div class="service-icon">
                         <div class="icon-shape"></div>
                         <div class="icon-bg"></div>
-                        <img src="assets/img/icon/sr-3-1.png" alt="Service Shape">
+                        <img src="assets/img/icon/software_development.png" alt="Service Shape">
                     </div>
                     <h3 class="service-title h5"><a class="text-inherit" href="service-details.html">Software Development</a></h3>
                     <p class="service-text">Plan, Implement and Test softwares on any needed Platform (Web, Desktop, Mobile).</p>
@@ -19,7 +19,7 @@
                     <div class="service-icon">
                         <div class="icon-shape"></div>
                         <div class="icon-bg"></div>
-                        <img src="assets/img/icon/sr-3-2.png" alt="Service Shape">
+                        <img src="assets/img/icon/business_marketing.png" alt="Service Shape">
                     </div>
                     <h3 class="service-title h5"><a class="text-inherit" href="service-details.html">Marketing</a></h3>
                     <p class="service-text">Provide marketing solutions that match the business Needs either online or offline.</p>
@@ -31,7 +31,7 @@
                     <div class="service-icon">
                         <div class="icon-shape"></div>
                         <div class="icon-bg"></div>
-                        <img src="assets/img/icon/sr-3-3.png" alt="Service Shape">
+                        <img src="assets/img/icon/consultant.png" alt="Service Shape">
                     </div>
                     <h3 class="service-title h5"><a class="text-inherit" href="service-details.html">Consultant</a></h3>
                     <p class="service-text">Book a session or a meeting with an expert in business development.</p>

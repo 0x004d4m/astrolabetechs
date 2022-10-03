@@ -1,5 +1,5 @@
 <!--============================== Footer Area ==============================-->
-<footer class="footer-wrapper footer-layout1" data-bg-src="assets/img/bg/footer-bg-1-1.jpg">
+<footer class="footer-wrapper footer-layout1" data-bg-src="assets/img/bg/footer_bg.png">
     <div class="widget-area">
         <div class="container">
             <div class="row justify-content-between flex-row-reverse">

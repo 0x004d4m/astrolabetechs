@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row gx-60 align-items-center">
             <div class="col-lg-5">
-                <img src="assets/img/about/faq-1-1.png" alt="image">
+                <img src="assets/img/about/contact_us.png" alt="image">
             </div>
             <div class="col-lg-7 pt-5 pt-xl-0">
                 <form action="/contact" method="POST">
