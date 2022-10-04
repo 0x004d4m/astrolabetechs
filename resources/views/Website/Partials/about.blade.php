@@ -10,7 +10,7 @@
             <div class="tab-pane fade show active" id="nav-mission" role="tabpanel" aria-labelledby="nav-mission-tab">
                 <div class="row">
                     <div class="col-lg-6">
-                        <img src="assets/img/about/our_mission.png" alt="about image" class="w-100">
+                        <img src="assets/img/about/our_mission.png" alt="Our Mission" class="w-100">
                     </div>
                     <div class="col-lg-6 align-self-center">
                         <div class="about-box2">
@@ -32,7 +32,7 @@
             <div class="tab-pane fade" id="nav-vision" role="tabpanel" aria-labelledby="nav-vision-tab">
                 <div class="row">
                     <div class="col-lg-6">
-                        <img src="assets/img/about/our_vision.png" alt="about image">
+                        <img src="assets/img/about/our_vision.png" alt="Our Vision">
                     </div>
                     <div class="col-lg-6 align-self-center">
                         <div class="about-box2">
@@ -54,7 +54,7 @@
             <div class="tab-pane fade" id="nav-ourgoals" role="tabpanel" aria-labelledby="nav-ourgoals-tab">
                 <div class="row">
                     <div class="col-lg-6">
-                        <img src="assets/img/about/our_goal.png" alt="about image">
+                        <img src="assets/img/about/our_goal.png" alt="Our Goal">
                     </div>
                     <div class="col-lg-6 align-self-center">
                         <div class="about-box2">

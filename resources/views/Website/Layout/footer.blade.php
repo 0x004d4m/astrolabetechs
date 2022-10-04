@@ -57,7 +57,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-auto">
-                    <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2022 <a href="index.html">Bizino</a> - All Rights Reserved By <a href="https://themeforest.net/user/vecuro_themes">Vecuro</a>.</p>
+                    <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2022 <a href="#">Astrolabe</a> - All Rights Reserved By <a href="#">Astrolabe</a>.</p>
                 </div>
                 <div class="col-auto d-none d-md-block">
                     <div class="header-social">
