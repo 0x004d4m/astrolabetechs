@@ -44,9 +44,9 @@
                     <div class="widget footer-widget">
                         <h3 class="widget_title">Contact Us</h3>
                         <div class="vs-widget-about">
-                            <p class="footer-info"><i class="fal fa-map-marker-alt"></i>215 Ulta Market Ave, Brooklyn CA, 159336</p>
-                            <p class="footer-info"><i class="fal fa-envelope"></i><a href="mailto:info@example.com">info@example.com</a></p>
-                            <p class="footer-info"><i class="fal fa-phone-alt"></i><a href="tel:+125145612565">+125 (1456) 12565</a></p>
+                            <p class="footer-info"><i class="fal fa-map-marker-alt"></i>4900 Fournace Pl STE 556, Bellaire, TX 77401</p>
+                            <p class="footer-info"><i class="fal fa-envelope"></i><a href="mailto:info@astrolabetechs.com">info@astrolabetechs.com</a></p>
+                            <p class="footer-info"><i class="fal fa-phone-alt"></i><a href="tel:(346)203-0433">(346) 203-0433</a></p>
                         </div>
                     </div>
                 </div>
@@ -57,7 +57,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-auto">
-                    <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2022 <a href="#">Astrolabe</a> - All Rights Reserved By <a href="#">Astrolabe</a>.</p>
+                    <p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2022 <a href="/">Astrolabe</a> - All Rights Reserved By <a href="/">Astrolabe</a>.</p>
                 </div>
                 <div class="col-auto d-none d-md-block">
                     <div class="header-social">

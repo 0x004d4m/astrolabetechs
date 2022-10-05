@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="zxx" id="home">
     <head>
         @include('Website.Layout.head')
         <title>@yield('title')</title>

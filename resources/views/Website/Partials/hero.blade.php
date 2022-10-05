@@ -25,8 +25,8 @@
                 problems smartly.
             </p>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:315px; top:710px;" class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
-                <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a>
+                <a href="#contact_form" class="vs-btn ls-vs-btn">Get In Touch</a>
+                {{-- <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a> --}}
             </div>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:545px; top:710px;" class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:1000; easingin:easeOutQuint; bgcolorin:transparent; colorin:transparent; offsetyout:100; durationout:1500; easingout:easeOutQuint; bgcolorout:transparent; colorout:transparent;"></div>
             <img width="588" height="795" src="assets/img/hero/hero-1-2.png" class="ls-l ls-hide-desktop ls-img-layer" alt="hero image" style="font-size:36px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; top:66px; left:1143px; z-index:500; width:676px; height:913px;">
@@ -43,8 +43,8 @@
                 problems smartly.
             </p>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:150px; top:650px;" class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
-                <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a>
+                <a href="#contact_form" class="vs-btn ls-vs-btn">Get In Touch</a>
+                {{-- <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a> --}}
             </div>
             <h1 style="font-size:120px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:700; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; font-family:Sora; left:100px; top:160px;" class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-100; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500;">
                 Build an Effective
@@ -53,8 +53,8 @@
                 Online Strategy
             </h1>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:100px; top:550px;" class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
-                <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a>
+                <a href="#contact_form" class="vs-btn ls-vs-btn">Get In Touch</a>
+                {{-- <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a> --}}
             </div>
         </div>
 
@@ -76,8 +76,8 @@
                 Online effectively.
             </p>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:315px; top:710px;" class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
-                <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a>
+                <a href="#contact_form" class="vs-btn ls-vs-btn">Get In Touch</a>
+                {{-- <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a> --}}
             </div>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:545px; top:710px;" class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:1000; easingin:easeOutQuint; bgcolorin:transparent; colorin:transparent; offsetyout:100; durationout:1500; easingout:easeOutQuint; bgcolorout:transparent; colorout:transparent;"></div>
             <img width="588" height="795" src="assets/img/hero/hero-2-2.png" class="ls-l ls-hide-desktop ls-img-layer" alt="hero image" style="font-size:36px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; top:66px; left:1143px; z-index:500; width:676px; height:913px;">
@@ -94,8 +94,8 @@
                 Online effectively.
             </p>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:150px; top:650px;" class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
-                <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a>
+                <a href="#contact_form" class="vs-btn ls-vs-btn">Get In Touch</a>
+                {{-- <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a> --}}
             </div>
             <h1 style="font-size:120px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:700; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; font-family:Sora; left:100px; top:160px;" class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-100; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500;">
                 Take Expert Help
@@ -104,8 +104,8 @@
                 And Grow Online
             </h1>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:100px; top:550px;" class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
-                <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a>
+                <a href="#contact_form" class="vs-btn ls-vs-btn">Get In Touch</a>
+                {{-- <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a> --}}
             </div>
         </div>
 
@@ -127,8 +127,8 @@
                 generation easier.
             </p>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:315px; top:710px;" class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
-                <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a>
+                <a href="#contact_form" class="vs-btn ls-vs-btn">Get In Touch</a>
+                {{-- <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a> --}}
             </div>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:545px; top:710px;" class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:1000; easingin:easeOutQuint; bgcolorin:transparent; colorin:transparent; offsetyout:100; durationout:1500; easingout:easeOutQuint; bgcolorout:transparent; colorout:transparent;"></div>
             <img width="588" height="795" src="assets/img/hero/hero-3-2.png" class="ls-l ls-hide-desktop ls-img-layer" alt="image" style="font-size:36px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; top:66px; left:1143px; z-index:500; width:676px; height:913px;">
@@ -145,8 +145,8 @@
                 generation easier.
             </p>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:150px; top:650px;" class="ls-l ls-hide-desktop ls-hide-phone ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
-                <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a>
+                <a href="#contact_form" class="vs-btn ls-vs-btn">Get In Touch</a>
+                {{-- <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a> --}}
             </div>
             <h1 style="font-size:120px; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:700; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; color:#ffffff; font-family:Sora; left:100px; top:160px;" class="ls-l ls-hide-desktop ls-hide-tablet ls-text-layer" data-ls="offsetxin:-100; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500;">
                 Stablish Business
@@ -155,8 +155,8 @@
                 With Expert Plan
             </h1>
             <div style="font-size:36px; color:#000; text-align:left; font-style:normal; text-decoration:none; text-transform:none; font-weight:400; letter-spacing:0px; background-position:0% 0%; background-repeat:no-repeat; left:100px; top:550px;" class="ls-l ls-hide-desktop ls-hide-tablet ls-html-layer" data-ls="offsetyin:100; durationin:1500; delayin:800; easingin:easeOutQuint; offsetyout:100; durationout:1500; easingout:easeOutQuint;">
-                <a href="contact.html" class="vs-btn ls-vs-btn">Get In Touch</a>
-                <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a>
+                <a href="#contact_form" class="vs-btn ls-vs-btn">Get In Touch</a>
+                {{-- <a href="https://www.youtube.com/watch?v=_sI_Ps7JSEk" class="play-btn style3 popup-video"><i class="fas fa-play"></i></a> --}}
             </div>
         </div>
     </div>

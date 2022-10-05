@@ -1,5 +1,5 @@
 <!--============================== About Us ==============================-->
-<section class=" space">
+<section class=" space" id="about">
     <div class="container">
         <div class="nav about-tab" id="nav-tab" role="tablist">
             <button class="nav-link active" id="nav-mission-tab" data-bs-toggle="tab" data-bs-target="#nav-mission" type="button" role="tab" aria-controls="nav-mission" aria-selected="true">Our Mission</button>
@@ -24,7 +24,7 @@
                                     <li><i class="fal fa-check"></i>Drive organic traffic and lead generation</li>
                                 </ul>
                             </div>
-                            <a href="about.html" class="vs-btn">Learn More</a>
+                            {{-- <a href="about.html" class="vs-btn">Learn More</a> --}}
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                                     <li><i class="fal fa-check"></i>Provide unique solution and ideas</li>
                                 </ul>
                             </div>
-                            <a href="about.html" class="vs-btn">Learn More</a>
+                            {{-- <a href="about.html" class="vs-btn">Learn More</a> --}}
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                                     <li><i class="fal fa-check"></i>Time Savings</li>
                                 </ul>
                             </div>
-                            <a href="about.html" class="vs-btn">Learn More</a>
+                            {{-- <a href="about.html" class="vs-btn">Learn More</a> --}}
                         </div>
                     </div>
                 </div>

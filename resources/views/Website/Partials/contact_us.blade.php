@@ -1,5 +1,5 @@
 <!--============================== Contact Form Area ==============================-->
-<section class=" pt-20 space-bottom">
+<section class=" pt-20 space-bottom" id="contact_form">
     <div class="container">
         <div class="row gx-60 align-items-center">
             <div class="col-lg-5">
