@@ -7,7 +7,7 @@
                     <div class="header-links">
                         <ul>
                             <li><i class="fal fa-envelope-open-text"></i><a href="mailto:info@astrolabetechs.com">info@astrolabetechs.com</a></li>
-                            <li><i class="far fa-map-marker-alt"></i>250 Main Street, 2nd Floor. USA</li>
+                            <li><i class="far fa-map-marker-alt"></i>4900 Fournace Pl STE 556, Bellaire, TX 77401</li>
                         </ul>
                     </div>
                 </div>
