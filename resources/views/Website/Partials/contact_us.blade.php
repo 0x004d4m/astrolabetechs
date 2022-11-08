@@ -49,7 +49,7 @@
         </div>
     </div>
 </section>
-@section()
+@section('scripts')
     <script>
         document.querySelector('[name="number"]')
             .addEventListener('input', function (e) {
