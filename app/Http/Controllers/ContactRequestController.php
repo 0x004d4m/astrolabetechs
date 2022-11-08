@@ -20,6 +20,7 @@ class ContactRequestController extends Controller
             'state' => 'required|min:2|max:255',
             'zip_code' => 'required|min:5|max:5',
         ]);
+        Log::debug(json_encode($data));
         $data['by'] = 'website';
         ContactRequest::create($data);
         Session::flash('success', 'Your message has been sent successfully');

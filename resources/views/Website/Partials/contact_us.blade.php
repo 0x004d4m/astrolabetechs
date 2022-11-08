@@ -23,7 +23,16 @@
                             <input type="email" placeholder="Your Email" name="email" id="email" required class="form-control style4">
                         </div>
                         <div class="col-md-6 form-group">
-                            <input name="number" placeholder="+00 (000) 000-00-00-000">
+                            <input type="text" placeholder="+00 (000) 000-00-00-000" name="number" id="number" required class="form-control style4">
+                        </div>
+                        <div class="col-md-6 form-group">
+                            <input type="text" placeholder="Your City" name="city" id="city" required class="form-control style4">
+                        </div>
+                        <div class="col-md-6 form-group">
+                            <input type="text" placeholder="Your State" name="state" id="state" required class="form-control style4">
+                        </div>
+                        <div class="col-md-6 form-group">
+                            <input type="text" placeholder="Your ZIP Code" name="zip_code" id="zip_code" required class="form-control style4">
                         </div>
                         <div class="col-md-6 form-group">
                             <select class="form-select style4" name="subject" id="subject" required>
@@ -53,8 +62,9 @@
     <script>
         document.querySelector('[name="number"]')
             .addEventListener('input', function (e) {
+                // +00 (000) 000-00-00-000
                 var x = e.target.value.replace(/\D/g, '')
-                    .match(/(\d{0,2})(\d{0,3})(\d{0,3})(\d{0,2})(\d{0,2})(\d{0,3})/);
+                    .match(/(\d{0,2})(\d{0,3})(\d{0,3})(\d{0,4})/);
 
                 if (!x[1]) {
                     e.target.value = '+';
@@ -68,7 +78,7 @@
                     return;
                 }
 
-                e.target.value = `+${x[1]} (${x[2]}`
+                e.target.value = `+01 (${x[2]}`
                     + ( x[3] ? `) ${x[3]}` : '' )
                     + ( x[4] ? `-${x[4]}` : '' )
                     + ( x[5] ? `-${x[5]}` : '' )
