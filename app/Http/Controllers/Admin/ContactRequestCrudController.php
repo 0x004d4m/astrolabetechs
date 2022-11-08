@@ -44,6 +44,9 @@ class ContactRequestCrudController extends CrudController
         CRUD::column('number');
         CRUD::column('subject');
         CRUD::column('message');
+        CRUD::column('city');
+        CRUD::column('state');
+        CRUD::column('zip_code');
         CRUD::column('by');
     }
 
@@ -71,6 +74,18 @@ class ContactRequestCrudController extends CrudController
         $this->crud->addField([
             'type' => "email",
             'name' => 'email',
+        ]);
+        $this->crud->addField([
+            'type' => "text",
+            'name' => 'city',
+        ]);
+        $this->crud->addField([
+            'type' => "text",
+            'name' => 'state',
+        ]);
+        $this->crud->addField([
+            'type' => "text",
+            'name' => 'zip_code',
         ]);
         $this->crud->addField([
             'type' => "text",

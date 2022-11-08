@@ -18,5 +18,8 @@ class ContactRequest extends Model
         'subject',
         'message',
         'by',
+        'city',
+        'state',
+        'zip_code',
     ];
 }

@@ -11,11 +11,14 @@ class ContactRequestController extends Controller
 {
     public function store(Request $request){
         $data = request()->validate([
-            'name' => 'required',
-            'email' => 'required|email',
-            'number' => 'required',
-            'subject' => 'required',
-            'message' => 'required',
+            'name' => 'required|min:3|max:255',
+            'email' => 'required|email|min:3|max:255',
+            'number' => 'required|min:3|max:255',
+            'subject' => 'required|min:3|max:255',
+            'message' => 'required|min:3|max:255',
+            'city' => 'required|min:2|max:255',
+            'state' => 'required|min:2|max:255',
+            'zip_code' => 'required|min:5|max:5',
         ]);
         $data['by'] = 'website';
         ContactRequest::create($data);

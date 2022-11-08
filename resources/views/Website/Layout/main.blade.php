@@ -13,5 +13,7 @@
 
         @include('Website.Layout.footer')
         @include('Website.Layout.scripts')
+
+        @yield('scripts')
     </body>
 </html>

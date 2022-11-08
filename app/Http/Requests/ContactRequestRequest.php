@@ -31,6 +31,9 @@ class ContactRequestRequest extends FormRequest
             'subject' => 'required|min:3|max:255',
             'message' => 'required|min:3|max:255',
             'by' => 'required|min:5|max:255',
+            'city' => 'required|min:2|max:255',
+            'state' => 'required|min:2|max:255',
+            'zip_code' => 'required|min:5|max:5',
         ];
     }
 

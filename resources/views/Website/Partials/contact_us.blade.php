@@ -23,7 +23,7 @@
                             <input type="email" placeholder="Your Email" name="email" id="email" required class="form-control style4">
                         </div>
                         <div class="col-md-6 form-group">
-                            <input type="number" placeholder="Phone No" name="number" id="number" required class="form-control style4">
+                            <input name="number" placeholder="+00 (000) 000-00-00-000">
                         </div>
                         <div class="col-md-6 form-group">
                             <select class="form-select style4" name="subject" id="subject" required>
@@ -49,3 +49,30 @@
         </div>
     </div>
 </section>
+@section()
+    <script>
+        document.querySelector('[name="number"]')
+            .addEventListener('input', function (e) {
+                var x = e.target.value.replace(/\D/g, '')
+                    .match(/(\d{0,2})(\d{0,3})(\d{0,3})(\d{0,2})(\d{0,2})(\d{0,3})/);
+
+                if (!x[1]) {
+                    e.target.value = '+';
+
+                    return;
+                }
+
+                if (!x[2]) {
+                    e.target.value = `+${x[1]}`;
+
+                    return;
+                }
+
+                e.target.value = `+${x[1]} (${x[2]}`
+                    + ( x[3] ? `) ${x[3]}` : '' )
+                    + ( x[4] ? `-${x[4]}` : '' )
+                    + ( x[5] ? `-${x[5]}` : '' )
+                    + ( x[6] ? `-${x[6]}` : '' );
+            });
+    </script>
+@endsection

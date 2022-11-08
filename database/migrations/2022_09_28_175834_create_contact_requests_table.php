@@ -21,6 +21,9 @@ return new class extends Migration
             $table->string('number');
             $table->string('subject');
             $table->string('message');
+            $table->string('city');
+            $table->string('state');
+            $table->string('zip_code');
             $table->string('by')->default('website');
 
             $table->timestamps();
